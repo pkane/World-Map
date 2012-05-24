@@ -1,0 +1,26 @@
+<div id="footer">
+	<div class="prev-link"><h3><a href="/en/">Cvent Home Page</a></h3></div>
+    <div id="connect">
+    	<h3>Connect with Us</h3>
+        <ul>
+        	<li><a href="#">LinkedIn</a></li>
+        	<li><a class="fb" href="#">Facebook</a></li>
+        	<li><a class="twtr" href="#">Twitter</a></li>
+        	<li><a class="ytb" href="#">YouTube</a></li>
+        </ul>                                    
+    </div>
+    <div id="blogs">
+    	<h3>Read our Blogs</h3>
+    	<ul>
+        	<li><a href="#">Hospitality Blog</a></li>
+            <li><a href="#">Event Planning Blog</a></li>
+        </ul>
+        <ul>
+        	<li><a href="#">Strategic Meetings Blog</a></li>
+            <li><a href="#">Web Surveys Blog</a></li>
+        </ul>
+    </div>
+    <a id="newsletter" href="#">Get our Hospitality Marketing Newsletter</a>
+    <p class="copyright">Copyright © 2000-2011<br />Cvent Inc. All rights reserved.</p>
+</div>
+<!--#include file="/en/assets/tracking.html" -->

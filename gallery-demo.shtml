@@ -1,0 +1,406 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+	<title>Online Solutions for Events &amp; Surveys | Cvent</title>
+
+    <meta name="robots" content="noindex" />
+
+    <meta name="description" content="Cvent provides online software for Event Management, Web Surveys, &amp; Email Marketing as well as a global event venue directory with over 150,000 venues." />
+
+	<meta name="keywords" content="Online Event Registration, Event Marketing, Event Management, Events, Email Marketing, Housing Management, Web Surveys, Surveys" />
+
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+	<meta name="verify-v1" content="J7nmDSUMQvVw/soz+tnlMJaAw0aHPrRXNmURAJJOKis=" />
+
+	<link rel="stylesheet" href="http://www.cvent.com/en/assets/css/homepage-new.css" type="text/css" />
+
+    <script type="text/javascript" src="http://www.cvent.com/en/assets/js/jquery-1.4.2.min.js"></script>
+
+    <script type="text/javascript" src="http://www.cvent.com/en/assets/js/homepageScripts-2.js"></script>
+
+	<script type="text/javascript" src="http://fast.fonts.com/jsapi/b039e161-12a4-4c5d-a345-2cd40b3b64a1.js"></script>
+
+    <script type="text/javascript">
+
+		window.onload = function initSlideOverhang() {
+
+if ((navigator.userAgent.indexOf("Mozilla")!=-1) && (document.getElementById('overhang').style.backgroundPosition=='')) {
+
+		document.getElementById('overhang').style.backgroundPosition='0 -85px';
+
+		document.getElementById('a').style.display='none'; 		
+
+		document.getElementById('slidecopy').style.marginTop='0px';			
+
+		document.getElementById('slidesnav').style.paddingTop='190px';			
+
+}
+
+else if (((navigator.userAgent.indexOf("Microsoft")!=-1) || (navigator.userAgent.indexOf("Chrome")!=-1)) && (document.getElementById('overhang').style.backgroundPosition=='')) {
+
+		document.getElementById('overhang').style.backgroundPositionY='-85px';
+
+		document.getElementById('a').style.display='none'; 		
+
+		document.getElementById('slidecopy').style.marginTop='0px';			
+
+		document.getElementById('slidesnav').style.paddingTop='190px';			
+
+	}	
+
+}
+
+		var t=setInterval('slideNavCheck()', 100);
+
+	</script>
+    
+    <style type="text/css">
+	#slideshow .slides ul li h3.right {
+    margin: 140px 164px 0 0;
+}
+	</style>
+
+</head>
+
+<body id="home">
+
+<div id="wrapper">
+
+		<!-- 508 skip navigation -->
+
+	<a id="skip-nav" href="#top">skip navigation</a>
+
+	<div id="nav-container"> 
+
+	<script type="text/javascript" src="http://www.cvent.com/en/assets/js/csn-validator.js"></script>
+
+	<div id="branding">
+
+		<p class="logo"><a href="/">Cvent Homepage</a></p>
+
+		<p class="tagline">Event Management, Web Survey, and eMarketing Solutions</p>
+
+
+
+	</div>
+
+	<div class="top-links">
+
+		<ul>
+
+            <li><a href="https://app.cvent.com/Subscribers/Login.aspx" rel="nofollow">Log in</a></li>
+
+        	<li><a href="https://www.cvent.com/events/default.aspx" rel="nofollow">RSVP for an Event</a></li>
+
+        	<li><a href="https://www.cvent.com/events/default.aspx" rel="nofollow">Find a Venue</a></li>
+
+        	<li id="contact"><a href="http://www.cvent.com/en/contact/">Contact Us: 866.318.4358</a></li>     
+
+        </ul>  
+
+	</div>
+
+	<div class="search">
+
+        <form action="http://www.cvent.com/en/search-results.shtml" id="cse-search-box">
+
+            <label for="search">Google Search</label>
+
+            <div>
+
+            <input type="hidden" name="cx" value="012162062864900425688:j9dzder3f30" />
+
+            <input type="hidden" name="cof" value="FORID:10" />
+
+            <input type="hidden" name="ie" value="UTF-8" />
+
+
+
+            <input id="search" type="text" name="q" size="31" />
+
+            <input id="gsc-search-button" type="submit" name="sa" value="Search" />
+
+            </div>
+
+        </form>
+
+        <script type="text/javascript" src="http://www.cvent.com/en/assets/js/gcse-watermark.js"></script>
+
+	</div>
+
+	<ul id="navigation">
+
+		<li class="event"><a href="http://www.cvent.com/en/company/">Company</a></li>
+
+		<li class="csn"><a href="http://www.cvent.com/en/solutions/">Event &amp; Web Survey Solutions</a></li>
+
+		<li class="smm"><a href="http://www.cvent.com/en/resources/">Event &amp; Web Survey Resources</a></li>
+
+		<li class="surveys"><a href="http://www.cvent.com/en/customers/">Event &amp; Web Survey Clients</a></li>
+
+		<li class="company"><a href="http://www.cvent.com/en/partners/">Partners</a></li>
+
+		<li class="customers"><a href="http://www.cvent.com/en/contact/">Contact <span id="phone">866.318.4358</span></a></li> 
+
+	</ul>
+
+
+
+	
+
+</div>        
+
+    <div id="top">
+
+    <h1>Online Solutions for Events &amp; Surveys</h1>
+
+    	<div id="slideshow">
+
+			<div class="slides">
+
+                    <ul>
+
+                        <li class="one" id="nav1">
+
+                        <div class="slide-copy" id="slidecopy">
+
+                            <h2>Plan &amp; Manage Events</h2>
+
+                            <ul>
+
+                            	<li>Online event registration to fit events of all kinds</li>
+
+                                <li>Sample events and registration forms</li>
+
+                                <li>Payment processing, discounts and automated refunds</li>
+
+                            </ul>
+
+                            <div>
+
+                            <a class="small-button" href="http://www.cvent.com/en/solutions/live-event-seminars.shtml">Attend a Seminar</a>
+
+                            <a class="small-button" href="http://www.cvent.com/en/solutions/event-webinars.shtml">View a Webinar</a>
+
+                            <a class="small-button" href="http://www.cvent.com/en/solutions/event-management-video-tours.shtml">Video Tours</a>
+
+                            </div>
+
+                        </div>                       
+
+   	<a class="learn-more" href="http://www.cvent.com/en/solutions/event-management.shtml"><img src="http://www.cvent.com/en/images/home/learn-more-event-cta.png" height="85" width="191" alt="Learn more about event management" /></a>
+
+                        </li>
+
+						<li class="two" id="nav2">
+
+                        <div class="slide-copy" id="slidecopy2">
+
+                            <h2>Find Great Event Venues</h2>
+
+                            <ul>
+
+                            	<li>Search and compare 150,000+ meeting venues</li>
+
+                                <li>Send a meeting request for proposal (RFP) to venues</li>
+
+                                <li>Receive quotes and book meeting space</li>
+
+                            </ul>
+
+                            <div>
+
+                            <a class="large-button" href="http://www.cvent.com/en/solutions/event-planners.shtml">Information for<br />Meeting Planners</a>
+
+                            <a class="large-button" href="http://www.cvent.com/en/solutions/event-suppliers.shtml">Information for <br />Venues &amp; Suppliers</a>
+
+                            </div>
+
+                        </div>        
+
+							<a class="slide-body-cta" id="csn" href="#"><img src="http://www.cvent.com/en/images/home/csn-search-box.png" height="73" width="425" alt="View a Webinar" /></a>             
+
+                            <h3 class="right" id="rt_webkit"><a href="http://www.cvent.com/en/destination-guide/">Explore 500+ Meeting Destinations<br /> on the Cvent Destination Guide</a></h3>
+
+							<h3 class="bottom"><span>Venues &amp; Suppliers:</span><br /> Reach Qualified Planners &amp; Win More Group Business</h3>                                 
+
+							<a class="slide-body-cta" href="#"><img src="http://www.cvent.com/en/images/home/view-webinar.png" height="52" width="152" alt="View a Webinar" /></a>                               
+
+                        </li>                        
+
+						<li class="three" id="nav3">
+
+                        <div class="slide-copy" id="slidecopy3">
+
+                            <h2 class="abr">Gain Control of Meeting Spend</h2>
+
+                            <ul>
+
+                            	<li>Plan &amp; budget corporate meetings; source meeting suppliers</li>
+
+                                <li>Manage attendee communications, payments and other logistics</li>
+
+                                <li>Measure all aspects of your meetings program</li>
+
+                            </ul>
+
+                            <div>
+
+                            <a class="large-button" href="http://www.cvent.com/en/solutions/live-event-seminars.shtml">Read our Best Practices<br />in Strategic Sourcing</a>
+
+                            <a class="large-button" href="http://www.cvent.com/en/solutions/event-webinars.shtml">Get the Aberdeen Group's <br />2011 SMM Report</a>
+
+                            </div>
+
+                        </div>
+
+   	<a class="learn-more" href="http://www.cvent.com/en/solutions/event-management.shtml"><img src="http://www.cvent.com/en/images/home/learn-more-smm-cta.png" height="85" width="271" alt="Learn more about event management" /></a>                                
+
+                        </li>     
+
+						  
+
+						<li class="four" id="nav4">
+
+                        <div class="slide-copy" id="slidecopy4">
+
+                            <h2 class="abr">Create &amp; Launch Online Surveys</h2>
+
+                            <ul>
+
+                            	<li>Increase participation in your feedback programs</li>
+
+                                <li>Save time and labor creating surveys and reports</li>
+
+                                <li>Quickly access and share feedback data</li>
+
+                            </ul>
+
+                            <div>
+
+                            <a class="small-button" href="http://www.cvent.com/en/solutions/live-event-seminars.shtml">Attend a Seminar</a>
+
+                            <a class="small-button" href="http://www.cvent.com/en/solutions/event-webinars.shtml">View a Webinar</a>
+
+                            <a class="small-button" href="http://www.cvent.com/en/solutions/event-management-video-tours.shtml">Free Trial</a>
+
+                            </div>
+
+                        </div> 
+
+   	<a class="learn-more" href="http://www.cvent.com/en/solutions/event-management.shtml"><img src="http://www.cvent.com/en/images/home/learn-more-survey-cta.png" height="85" width="161" alt="Learn more about event management" /></a>                                                      
+
+                        </li>                                                                                      
+
+                    </ul>
+
+        	</div>  
+
+				<ul class="slides-nav" id="slidesnav">
+
+                    <li class="one"><a id="a" href="#">Plan &amp; Manage Events</a></li>
+
+                    <li class="two"><a id="b" href="#">Find the Perfect Event Venue</a></li>
+
+                    <li class="three"><a id="c" href="#">Strategic Meetings Management</a></li>
+
+                    <li class="four"><a id="d" href="#">Create &amp; Launch Online Surveys</a></li>
+
+                </ul>                       
+
+        </div>
+
+    </div>
+
+   	<a class="learn-more" id="overhang"><!--<img src="http://www.cvent.com/en/images/home/learn-more-cta.png" height="85" width="15" alt="Learn more about event management" />--></a>    
+
+	<div id="home-content">
+
+    	<div id="cvent-news">
+
+        	<h3><a href="http://www.cvent.com/en/company/news-room.shtml">Cvent News</a></h3>
+
+			<ul>
+
+                    <li><a href="http://techcrunch.com/2011/07/20/there-and-back-again-how-cvents-founder-stood-by-his-company-for-better-or-bankruptcy/" target="_blank" rel="nofollow">How Cvent's Founder Stood By His Company, For Better Or Bankruptcy</a></li>
+
+                    <li><a href="http://www.cvent.comhttp://www.cvent.com/en/company/cvent-raises-136-million-funding-with-new-enterprise-associates.shtml" rel="nofollow">Cvent Receives $136 Million Investment Led by New Enterprise Associates <br />and Insight Venture Partners</a></li>                    <li><a href="http://www.cvent.comhttp://www.cvent.com/en/company/cvent-best-places-to-work-2011.shtml" rel="nofollow">Cvent Recognized as One of the "Best Places to Work" in Greater Washington</a></li>
+
+                    <li><a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/11/07/AR2010110703933.html" target="_blank" rel="nofollow">Cvent Featured on Front Page Business Section of Washington Post</a></li>                    
+
+                    <li><a href="http://www.cvent.comhttp://www.cvent.com/en/company/cvent-drives-unique-group-business-to-hotels.shtml" rel="nofollow">Cvent to Drive $4 Billion in Unique Group Business to Hotels in 2011</a></li>
+
+            </ul>        
+
+        </div>
+
+        <div>
+
+        	<h3><a href="http://www.cvent.com/en/sem/social-media-event-marketing-ebook.shtml">Check our our eBook</a></h3>        
+
+        	<ul id="homePortal">
+
+                    <li class="ebook">
+
+                    	<a href="http://www.cvent.com/en/sem/social-media-event-marketing-ebook.shtml"><img src="http://www.cvent.com/en/images/home/ebook-promo.jpg" height="136" width="218" alt="Event Marketing ebook" /></a>
+
+<!-- <script language="JavaScript" type="text/javascript">showOtherImage();</script>      -->
+
+                    </li>
+
+            </ul>
+
+        </div>
+
+        <div>
+
+        	<h3><a href="http://www.cvent.com/en/company/cvent-videos.shtml">Meet the Team</a></h3>       
+
+                    	<a href="http://www.cvent.com/en/company/cvent-videos.shtml"><img src="http://www.cvent.com/en/images/home/meet-the-team.jpg" height="136" width="218" alt="Meet the team" /></a>
+
+        </div>        
+
+    </div>                            
+
+</div>
+
+<div id="container">
+
+   <p id="customers">
+
+   <a href="http://www.cvent.com/en/customers/"><img src="http://www.cvent.com/en/images/home/clients-and-stats.gif" alt="Cvent Clients and statistic" width="956" height="62" /></a>
+
+   <!--<script language="JavaScript" type="text/javascript">showImage();</script>-->
+
+   </p>            
+
+</div>
+
+<div id="footer">
+
+	<div id="footer-content">
+
+<iframe src="http://www.cvent.com/en/assets/footer-iframe.shtml" height="206" width="980" scrolling="no" frameborder="0" ></iframe>
+
+
+
+</div>
+
+
+</div>
+
+<!--[if IE]>
+
+    <link rel="stylesheet" href="http://www.cvent.com/en/assets/css/ie.css" type="text/css" />
+
+<![endif]-->
+
+
+</body>
+
+</html>
+

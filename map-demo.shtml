@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Online Media Kit | Cvent</title>
+	<meta name="Description" content="Promote your business on the Cvent Supplier Network" />
+	<meta name="Keywords" content="Media Kit, Online Event Registration, Event Marketing, Event Management, Events, Email Marketing, Housing Management, Web Surveys, Surveys" />
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta name="verify-v1" content="J7nmDSUMQvVw/soz+tnlMJaAw0aHPrRXNmURAJJOKis=" />
+	<link rel="stylesheet" href="assets/css/mediakit.css" type="text/css" />
+	<link rel="stylesheet" href="assets/css/mediakit-map.css" type="text/css" />    
+    <script src="assets/js/jquery-1.6.min.js" type="text/javascript"></script>
+	<script src="assets/js/mediakit.js" type="text/javascript"></script>    
+</head>
+<body id="supplier-network" class="overview">
+<div id="wrapper">
+    	<div class="container-top">
+            <div class="content">        
+            <h1><strong>The Cvent Supplier Network</strong> <br />A Free Online Sourcing Tool for Meeting Planners</h1>      
+            <p>The Supplier Network brings together planners who are looking to source their events and meetings with venues seeking to book their meeting space and sleep rooms. Planners can search for venues and services, compare property and company details and find exclusive promotions. Planners send eRFPs through the Supplier Network to selected venues and service providers. Suppliers can then easily respond to RFPs by submitting their proposals through the system. </p>
+            <p class="emph">Planners benefit from the efficiency and wealth of data; venues are able to market their properties in front of thousands of qualified planners.</p>
+            </div>
+            <div class="block-point"><p>Over <strong>500</strong> new organizations <br />start sending RFPs each month.</p></div>
+        </div>    
+	<div class="container">
+    		<h2><strong>Global Coverage</strong> <br />150,000+ Venues</h2>
+            <p class="emph">Move cursor over regions to see venue count.</p>
+            <div id="csn-map" class="fade"><div id="map">
+            <div id="nav-regions">
+            	<ul id="usa">
+                	<li onmouseover="mapRegion('usa')" onmouseout="mapRegionOff('usa')" class="one"></li>
+                	<li onmouseover="mapRegion('usa')" onmouseout="mapRegionOff('usa')" class="two"></li>
+                	<li onmouseover="mapRegion('usa')" onmouseout="mapRegionOff('usa')" class="three"></li>
+                	<li onmouseover="mapRegion('usa')" onmouseout="mapRegionOff('usa')" class="four"></li>        
+                	<li onmouseover="mapRegion('usa')" onmouseout="mapRegionOff('usa')" class="five"></li>                          
+				</ul> 
+            	<ul id="canada">
+                	<li onmouseover="mapRegion('canada')" onmouseout="mapRegionOff('canada')" class="one"></li>
+                	<li onmouseover="mapRegion('canada')" onmouseout="mapRegionOff('canada')" class="two"></li>       
+                	<li onmouseover="mapRegion('canada')" onmouseout="mapRegionOff('canada')" class="three"></li>        
+                	<li onmouseover="mapRegion('canada')" onmouseout="mapRegionOff('canada')" class="four"></li>                  
+				</ul>                            
+            	<ul id="mexico">
+                	<li onmouseover="mapRegion('mexico')" onmouseout="mapRegionOff('mexico')" class="one"></li>
+                	<li onmouseover="mapRegion('mexico')" onmouseout="mapRegionOff('mexico')" class="two"></li>
+                	<li onmouseover="mapRegion('mexico')" onmouseout="mapRegionOff('mexico')" class="three"></li>
+                	<li onmouseover="mapRegion('mexico')" onmouseout="mapRegionOff('mexico')" class="four"></li>
+                	<li onmouseover="mapRegion('mexico')" onmouseout="mapRegionOff('mexico')" class="five"></li>                     
+				</ul>
+            	<ul id="centralamerica">
+                	<li onmouseover="mapRegion('centralamerica')" onmouseout="mapRegionOff('centralamerica')" class="one"></li>
+				</ul>  
+            	<ul id="caribbean">
+                	<li onmouseover="mapRegion('caribbean')" onmouseout="mapRegionOff('caribbean')" class="one"></li>
+				</ul>                 
+            	<ul id="southamerica">
+                	<li onmouseover="mapRegion('southamerica')" onmouseout="mapRegionOff('southamerica')" class="one"></li>       
+				</ul>      
+            	<ul id="westerneurope">
+                	<li onmouseover="mapRegion('westerneurope')" onmouseout="mapRegionOff('westerneurope')" class="one"></li>
+                	<li onmouseover="mapRegion('westerneurope')" onmouseout="mapRegionOff('westerneurope')" class="two"></li>
+                	<li onmouseover="mapRegion('westerneurope')" onmouseout="mapRegionOff('westerneurope')" class="three"></li>
+                	<li onmouseover="mapRegion('westerneurope')" onmouseout="mapRegionOff('westerneurope')" class="four"></li>       
+				</ul>
+            	<ul id="northerneurope">
+                	<li onmouseover="mapRegion('northerneurope')" onmouseout="mapRegionOff('northerneurope')" class="one"></li>
+                	<li onmouseover="mapRegion('northerneurope')" onmouseout="mapRegionOff('northerneurope')" class="two"></li>
+				</ul> 
+            	<ul id="easterneurope">
+                	<li onmouseover="mapRegion('easterneurope')" onmouseout="mapRegionOff('easterneurope')" class="one"></li>
+                	<li onmouseover="mapRegion('easterneurope')" onmouseout="mapRegionOff('easterneurope')" class="two"></li>
+                	<li onmouseover="mapRegion('easterneurope')" onmouseout="mapRegionOff('easterneurope')" class="three"></li>
+                	<li onmouseover="mapRegion('easterneurope')" onmouseout="mapRegionOff('easterneurope')" class="four"></li>                	<li onmouseover="mapRegion('easterneurope')" onmouseout="mapRegionOff('easterneurope')" class="five"></li>
+                	<li onmouseover="mapRegion('easterneurope')" onmouseout="mapRegionOff('easterneurope')" class="six"></li>                	<li onmouseover="mapRegion('easterneurope')" onmouseout="mapRegionOff('easterneurope')" class="seven"></li>
+                	<li onmouseover="mapRegion('easterneurope')" onmouseout="mapRegionOff('easterneurope')" class="eight"></li>
+                	<li onmouseover="mapRegion('easterneurope')" onmouseout="mapRegionOff('easterneurope')" class="nine"></li>                	<li onmouseover="mapRegion('easterneurope')" onmouseout="mapRegionOff('easterneurope')" class="ten"></li>
+                	<li onmouseover="mapRegion('easterneurope')" onmouseout="mapRegionOff('easterneurope')" class="eleven"></li>
+                	<li onmouseover="mapRegion('easterneurope')" onmouseout="mapRegionOff('easterneurope')" class="twelve"></li>
+				</ul>                                  
+            	<ul id="uk">
+                	<li onmouseover="mapRegion('uk')" onmouseout="mapRegionOff('uk')" class="one"></li>            
+				</ul>                            
+            	<ul id="southernafrica">
+                	<li onmouseover="mapRegion('southernafrica')" onmouseout="mapRegionOff('southernafrica')" class="one"></li>
+                </ul>	
+            	<ul id="northernafrica">
+                	<li onmouseover="mapRegion('northernafrica')" onmouseout="mapRegionOff('northernafrica')" class="one"></li>
+                	<li onmouseover="mapRegion('northernafrica')" onmouseout="mapRegionOff('northernafrica')" class="two"></li> 
+                	<li onmouseover="mapRegion('northernafrica')" onmouseout="mapRegionOff('northernafrica')" class="three"></li>
+                	<li onmouseover="mapRegion('northernafrica')" onmouseout="mapRegionOff('northernafrica')" class="four"></li>     
+	              	<li onmouseover="mapRegion('northernafrica')" onmouseout="mapRegionOff('northernafrica')" class="five"></li>    
+				</ul>  
+            	<ul id="middleeast">
+                	<li onmouseover="mapRegion('middleeast')" onmouseout="mapRegionOff('middleeast')" class="one"></li>
+                	<li onmouseover="mapRegion('middleeast')" onmouseout="mapRegionOff('middleeast')" class="two"></li>
+                	<li onmouseover="mapRegion('middleeast')" onmouseout="mapRegionOff('middleeast')" class="three"></li>
+                	<li onmouseover="mapRegion('middleeast')" onmouseout="mapRegionOff('middleeast')" class="four"></li>
+                	<li onmouseover="mapRegion('middleeast')" onmouseout="mapRegionOff('middleeast')" class="five"></li>
+                	<li onmouseover="mapRegion('middleeast')" onmouseout="mapRegionOff('middleeast')" class="six"></li>      
+                	<li onmouseover="mapRegion('middleeast')" onmouseout="mapRegionOff('middleeast')" class="seven"></li>             
+                    <li onmouseover="mapRegion('middleeast')" onmouseout="mapRegionOff('middleeast')" class="eight"></li> 
+                </ul>                 
+            	<ul id="southeastasia">
+                	<li onmouseover="mapRegion('southeastasia')" onmouseout="mapRegionOff('southeastasia')" class="one"></li>  
+                	<li onmouseover="mapRegion('southeastasia')" onmouseout="mapRegionOff('southeastasia')" class="two"></li>       
+                	<li onmouseover="mapRegion('southeastasia')" onmouseout="mapRegionOff('southeastasia')" class="three"></li>  
+                	<li onmouseover="mapRegion('southeastasia')" onmouseout="mapRegionOff('southeastasia')" class="four"></li>  				</ul>                 
+            	<ul id="northernasia">
+                	<li onmouseover="mapRegion('northernasia')" onmouseout="mapRegionOff('northernasia')" class="one"></li>      
+                	<li onmouseover="mapRegion('northernasia')" onmouseout="mapRegionOff('northernasia')" class="two"></li>       
+                	<li onmouseover="mapRegion('northernasia')" onmouseout="mapRegionOff('northernasia')" class="three"></li>   
+                	<li onmouseover="mapRegion('northernasia')" onmouseout="mapRegionOff('northernasia')" class="four"></li>       
+				</ul>           
+            	<ul id="australia">
+                	<li onmouseover="mapRegion('australia')" onmouseout="mapRegionOff('australia')" class="one"></li>    
+                	<li onmouseover="mapRegion('australia')" onmouseout="mapRegionOff('australia')" class="two"></li>       
+				</ul>                                                                                     
+            </div>                                  
+            </div>             
+            </div>
+	</div>
+    
+    <div class="container-bottom"></div>
+</div>
+</body>
+</html>

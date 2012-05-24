@@ -1,0 +1,50 @@
+<!--[if IE 6]><link rel="stylesheet" href="/en/assets/css/mediakit-ie6.css" type="text/css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/en/assets/css/mediakit-ie7.css" type="text/css" /><![endif]-->
+<script>
+$(document).ready(function(){
+
+	// hide #back-top first
+	$("#back-to-top").hide();
+	
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 100) {
+				$('#back-to-top').fadeIn();
+			} else {
+				$('#back-to-top').fadeOut();
+			}
+		});
+
+		// scroll body to 0px on click
+		$('#back-to-top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});
+
+});
+</script>
+<div id="nav-container">
+	<div id="branding">
+		<p class="logo"><a href="/">Cvent Homepage</a></p>
+		<p class="sub-branding">Online Media Kit</p>
+    	<div id="contact-chat">
+    		<a id="live-chat" href="#">Live Chat with a Representative</a>
+        	<a id="contact-us" href="#">Contact Us</a>
+    	</div>        
+	</div>
+	<ul id="navigation">
+		<li class="overview"><a href="/en/media-kit/">Overview</a></li>
+		<li class="supplier-network"><a href="/en/media-kit/supplier-network.shtml">Supplier Network</a></li>
+		<li class="destination-guide"><a href="/en/media-kit/destination-guide.shtml">Destination Guide</a></li>        
+		<li class="newsletter"><a href="/en/media-kit/enewsletter.shtml">eNewsletter</a></li>
+		<li class="tools"><a href="/en/media-kit/tools.shtml">Tools</a></li>
+		<li class="marketing-bundles"><a href="/en/media-kit/marketing-bundles.shtml">Marketing Bundles</a></li>
+	</ul>
+</div>
+<p id="back-to-top">
+	<a href="#top"><span></span></a>
+</p>
